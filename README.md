@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorvi J Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, TypeScript and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **nayakpoorvi4@gmail.com**
 
