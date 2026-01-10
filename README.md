@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poorvi J Nayak</h1>
 <h3 align="center">A postgraduate student from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **nayakpoorvi4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
